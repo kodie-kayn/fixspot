@@ -1,4 +1,32 @@
 .navbar-brand img {
-    max-width: 100px; /* Ajustar el tamaño del logo según tus necesidades */
+    max-width: 100px;
     height: auto;
+}
+
+body {
+    background-color: rgb(199, 199, 199);
+}
+
+.header-text {
+    font-size: 2rem; 
+    margin-top: 1.5rem; 
+}
+
+.btn-background {
+    background-color: rgb(93, 47, 136);
+}
+
+.btn-background:hover {
+    background-color: rgb(65, 36, 92);
+}
+
+
+.btn {
+    color: white;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: white;
+    font-weight: bold;
 }
