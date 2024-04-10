@@ -1,3 +1,4 @@
+
 .navbar-brand img {
     max-width: 100px;
     height: auto;
@@ -30,3 +31,18 @@ body {
     color: white;
     font-weight: bold;
 }
+
+.card {
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 500px;
+}
+.card-text {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
